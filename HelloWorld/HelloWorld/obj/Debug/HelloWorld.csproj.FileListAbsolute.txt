@@ -1,0 +1,7 @@
+C:\Users\Aaron Grgurich\Desktop\C_Sharp_Test\C_Sharp_Test\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Aaron Grgurich\Desktop\C_Sharp_Test\C_Sharp_Test\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Aaron Grgurich\Desktop\C_Sharp_Test\C_Sharp_Test\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Aaron Grgurich\Desktop\C_Sharp_Test\C_Sharp_Test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Grgurich\Desktop\C_Sharp_Test\C_Sharp_Test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Grgurich\Desktop\C_Sharp_Test\C_Sharp_Test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Aaron Grgurich\Desktop\C_Sharp_Test\C_Sharp_Test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
